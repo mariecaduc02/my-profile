@@ -1,0 +1,22 @@
+body {
+    background: #f9b6c2;
+    color: #4a4e69;
+    font-family: 'Lora', serif;
+    font-size: 17px;
+    font-weight: lighter;
+}
+
+.card-white {
+    background-color: rgba(255, 255, 255, 0.7);
+    padding: 2px;
+    box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.1);
+    border-radius: 50px;
+    margin: 20px 5px;
+    text-align: center;
+    line-height: 1.5;
+}
+
+.profile-picture {
+    border-radius: 50%;
+    border: 5px solid #f9b6c2;
+}
